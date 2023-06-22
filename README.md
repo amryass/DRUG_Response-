@@ -1,5 +1,5 @@
 # DRUG_Response
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Data info and preprocessing  info](#Data info and preprocessing  info)
+* [Methedologies](#[Methedologies)
+* [Diagrams and Results](#Diagrams and Results)
